@@ -5,7 +5,7 @@ function Mostrar()
 
   while (i > 0){
 
-  console.log(i);
+  alert(i);
 
   i--;
 
